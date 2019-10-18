@@ -1,0 +1,2 @@
+# QCNodeWorkerThreads
+node在原来cluster多进程的基础上，进一步搞出来的多线程，01是node推荐使用的线程池
