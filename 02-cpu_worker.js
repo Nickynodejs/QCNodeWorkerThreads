@@ -9,7 +9,7 @@ if (isMainThread) {
 const doCalcs = (data) => {
     const collection = [];
     
-    for (let i = 0; i < 100; i++) {
+    for (let i = 0; i < 10; i++) {
         collection[i] = Math.round(Math.random() * 1000);
     }
     
